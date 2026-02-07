@@ -1,4 +1,4 @@
-# Telegram Bot: Social Media Status Monitor
+# Telegram Bot: Service Status Bot
 
 ## Описание проекта
 Данный проект представляет собой Telegram-бота, разработанного на языке Python,  
